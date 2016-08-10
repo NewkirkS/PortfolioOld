@@ -1,0 +1,58 @@
+body {
+  font-family: 'Arvo', serif;
+}
+
+div{
+  /*border: 2px solid black;*/
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color:grey;
+}
+
+nav {
+  text-align: center;
+}
+
+#main_nav li {
+    display: inline-block;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#main_nav li a {
+    display: block;
+    padding: 20px 17px 13px;
+    border: 0;
+}
+
+header {
+  text-transform: uppercase;
+    letter-spacing: 6px;
+    padding-right: 6px;
+    text-align: center;
+    white-space: normal;
+    /*border: 2px solid black;*/
+    margin: 60px auto 64px;
+    margin-top: 60px;
+    margin-right: auto;
+    margin-bottom: 64px;
+    margin-left: auto;
+}
+
+.headeralign {
+  padding-left: 50px;
+}
