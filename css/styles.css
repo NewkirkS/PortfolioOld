@@ -39,20 +39,19 @@ nav {
     border: 0;
 }
 
-header {
-  text-transform: uppercase;
-    letter-spacing: 6px;
-    padding-right: 6px;
-    text-align: center;
-    white-space: normal;
-    /*border: 2px solid black;*/
-    margin: 60px auto 64px;
-    margin-top: 60px;
-    margin-right: auto;
-    margin-bottom: 64px;
-    margin-left: auto;
+.parallax {
+    background-image: url("https://lh3.googleusercontent.com/d4ing6VvfhJHVz8_D823eI1PynaCB8MMoxm_FzKc0MbAz8k9AJDwUjRZQrvEJ1pq7U4to-x3xGZ_eOPkiQ16wxq0EjeCZs_h6uuagBZV2e0HJLD0RPYADkfC-G_6roWSniuN98cEgQ_gCIU3WElZLxHLMIu3hUzhOWC4jeJL6fCOV88Lq3eTcdL1957mqEdkgzhXlvQUIr3RngcQP0baCvbUn17eURwu2QHjWL_h0-rt2OlasmyWp2__59LLX2f7mUOau95tL8P0bbgGNMTy5qtsmDKftcQyl2MpQrx5IBc6lWUTJaNXKQKgGhqa2dbixnNru5nH1zpF8KZu3_Qn-BOs8LmU-1spZDRXlnnm-eCr4xaWhqHPvggKaoBF7Knjn2-1rzfaS7uDDn_-x5gMLoN0ZWXHa9H7EPbH5l9G_12ff4NDmhHVA3516q7mbAi-x4IP4W6ovxhx7inaEWZws-43MdfAx-G3K4LYQbAd8ZwsUwcsx3sWfx1-xAsL4sQvLmCg9X3K4rQbQjzaphdPCyt2uqMF_PWPPnZJQRml0-nWEgR0-w6eYpqONq-k-jjzsJqlE87h2nUJDUAEMksPNrX2cAnBYVI=w1920-h845-no");
+
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
 }
 
-.headeralign {
-  padding-left: 50px;
+h1 {
+  text-align: center;
+vertical-align: middle;
+line-height: 400px;
 }
