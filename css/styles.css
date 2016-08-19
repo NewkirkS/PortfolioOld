@@ -2,10 +2,6 @@ body {
   font-family: 'Arvo', serif;
 }
 
-ul {
-  list-style: none;
-}
-
 a {
   text-decoration: none;
   color: black;
@@ -27,6 +23,7 @@ nav {
     letter-spacing: 2px;
     -webkit-font-smoothing: subpixel-antialiased;
     border-bottom: 1px solid #e5e5e5;
+    list-style: none;
 }
 
 #main_nav li a {
@@ -70,6 +67,8 @@ h1 {
 
 .gallery {
   margin-bottom: 80px;
+  text-align: center;
+  list-style: square;
 }
 
 #aboutHeader {
