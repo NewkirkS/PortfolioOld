@@ -2,16 +2,6 @@ body {
   font-family: 'Arvo', serif;
 }
 
-a {
-  text-decoration: none;
-  color: black;
-}
-
-a:hover {
-  text-decoration: none;
-  color:grey;
-}
-
 nav {
   text-align: center;
 }
@@ -30,6 +20,14 @@ nav {
     display: block;
     padding: 20px 17px 13px;
     border: 0;
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+}
+
+#main-nav a:hover {
+  text-decoration: none;
+  color:grey;
 }
 
 .parallax-name {
