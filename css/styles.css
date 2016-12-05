@@ -16,7 +16,7 @@ nav {
   text-align: center;
 }
 
-#main_nav li {
+#main-nav li {
     display: inline-block;
     font-size: 10px;
     text-transform: uppercase;
@@ -26,13 +26,13 @@ nav {
     list-style: none;
 }
 
-#main_nav li a {
+#main-nav li a {
     display: block;
     padding: 20px 17px 13px;
     border: 0;
 }
 
-.parallaxName {
+.parallax-name {
     background-image: url("https://static.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg");
     min-height: 400px;
     background-attachment: fixed;
@@ -42,7 +42,7 @@ nav {
     color:white;
 }
 
-.parallaxAbout {
+.parallax-about {
     background-image: url("https://static.pexels.com/photos/47440/pexels-photo-47440.jpeg");
     min-height: 400px;
     background-attachment: fixed;
@@ -61,7 +61,7 @@ h1 {
   text-shadow: 2px 2px 4px #000000;
 }
 
-#galleryHeader {
+#gallery-header {
   margin-bottom: 80px;
 }
 
@@ -71,11 +71,11 @@ h1 {
   list-style: square;
 }
 
-#aboutHeader {
+#about-header {
   margin-bottom: 80px;
 }
 
-.aboutText {
+.about-text {
   text-align: center;
 }
 
