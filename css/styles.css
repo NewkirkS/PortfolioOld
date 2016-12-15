@@ -14,7 +14,7 @@ h1 {
   text-shadow: 2px 2px 4px #000000;
 }
 
-#main-nav li {
+#main-nav p {
     display: inline-block;
     font-size: 10px;
     text-transform: uppercase;
@@ -24,13 +24,12 @@ h1 {
     list-style: none;
 }
 
-#main-nav li a {
+#main-nav p a {
     display: block;
     padding: 20px 17px 13px;
     border: 0;
     text-decoration: none;
     color: black;
-    margin-right: 20px;
 }
 
 #main-nav a:hover {
