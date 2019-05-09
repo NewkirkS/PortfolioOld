@@ -18,6 +18,10 @@ h1 {
     margin-bottom: 100px;
 }
 
+.image-column {
+    height: 680px;
+}
+
 #main-nav p {
     display: inline-block;
     font-size: 10px;
