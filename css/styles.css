@@ -20,6 +20,7 @@ h1 {
 
 .image-column {
     height: 680px;
+    box-shadow: grey 6px 6px 6px;
 }
 
 #main-nav p {
