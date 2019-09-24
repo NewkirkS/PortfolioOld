@@ -14,6 +14,15 @@ h1 {
   text-shadow: 2px 2px 4px #000000;
 }
 
+.bottom-container {
+    margin-bottom: 100px;
+}
+
+.image-column {
+    height: 680px;
+    box-shadow: grey 6px 6px 6px;
+}
+
 #main-nav p {
     display: inline-block;
     font-size: 10px;
@@ -38,8 +47,9 @@ h1 {
 }
 
 .parallax-name {
-    background-image: url("https://static.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg");
+    background-image: url("../img/sky.jpg");
     min-height: 400px;
+    opacity: 0.9;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -48,8 +58,9 @@ h1 {
 }
 
 .parallax-about {
-    background-image: url("https://static.pexels.com/photos/47440/pexels-photo-47440.jpeg");
+    background-image: url('../img/code.jpg');
     min-height: 400px;
+    opacity: 0.9;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
