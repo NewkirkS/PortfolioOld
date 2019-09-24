@@ -6,7 +6,7 @@
 
 _Simple portfolio started early on my journey at Epicodus._
 
-_Check out the site [Here!] (https://newkirks.github.io/Portfolio/)_
+_Check out the site: https://newkirks.github.io/Portfolio/_
 
 
 ## Known Bugs
